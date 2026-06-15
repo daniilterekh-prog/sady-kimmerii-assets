@@ -20,3 +20,4 @@ QA:
 - All optimized images are WebP.
 - Hero: 228 KB.
 - Non-hero images: 34-258 KB, under 300 KB.
+| `/Users/ritaterekh/Documents/barnes-assets/repin/max-logo.svg` | `max-logo.svg` | MAX quick contact icon | MAX | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/max-logo.svg` |
