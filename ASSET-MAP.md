@@ -14,10 +14,11 @@ Public base: `https://daniilterekh-prog.github.io/sady-kimmerii-assets/`
 | `/Users/ritaterekh/Documents/сады кимерии/img/kimmerii-plan-graphic.jpg` | `sady-kimmerii-plan-graphic.webp` | plan cards, gallery plans | Планировка апартамента | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii-plan-graphic.webp` |
 | `/Users/ritaterekh/Documents/сады кимерии/img/kimmerii-expert-resort.jpg` | `sady-kimmerii-expert-resort.webp` | expert portrait | Эксперт по курортной недвижимости | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii-expert-resort.webp` |
 | `/Users/ritaterekh/Documents/сады кимерии/img/resort-masterplan-aerial.jpg` | `sady-kimmerii-masterplan-aerial.webp` | CSS masterplan background | Мастер-план курортного кластера | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii-masterplan-aerial.webp` |
+| `/Users/ritaterekh/Documents/сады кимерии/assets/project-research/raw-images/location-map-dark-saki.png` | `sady-kimmerii-location-map-dark-saki.webp` | dark location map base | Темная карта окружения «Сады Киммерии» | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii-location-map-dark-saki.webp` |
 
 QA:
 
 - All optimized images are WebP.
 - Hero: 228 KB.
-- Non-hero images: 34-258 KB, under 300 KB.
+- Non-hero images: 34-258 KB, plus dark location map 186 KB.
 | `/Users/ritaterekh/Documents/barnes-assets/repin/max-logo.svg` | `max-logo.svg` | MAX quick contact icon | MAX | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/max-logo.svg` |
