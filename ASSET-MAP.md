@@ -22,3 +22,22 @@ QA:
 - Hero: 228 KB.
 - Non-hero images: 34-258 KB, plus dark location map 186 KB.
 | `/Users/ritaterekh/Documents/barnes-assets/repin/max-logo.svg` | `max-logo.svg` | MAX quick contact icon | MAX | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/max-logo.svg` |
+
+## 2026-06-18 publish batch
+
+Public folder: `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/`
+
+Key files wired into the current landing:
+
+| File | URL |
+| --- | --- |
+| hero-desktop-official.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/hero-desktop-official.webp` |
+| location-map-dark-saki.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/location-map-dark-saki.webp` |
+| studio-44-6-official.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/studio-44-6-official.webp` |
+| one-room-59-3-official.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/one-room-59-3-official.webp` |
+| two-room-55-5-official.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/two-room-55-5-official.webp` |
+| terrace-69-4-official.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/terrace-69-4-official.webp` |
+| gallery-architecture-01.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/gallery-architecture-01.webp` |
+| gallery-territory-01.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/gallery-territory-01.webp` |
+| gallery-location-01.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/gallery-location-01.webp` |
+| gallery-plans-custom.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/gallery-plans-custom.webp` |
