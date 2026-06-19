@@ -41,3 +41,9 @@ Key files wired into the current landing:
 | gallery-territory-01.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/gallery-territory-01.webp` |
 | gallery-location-01.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/gallery-location-01.webp` |
 | gallery-plans-custom.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/gallery-plans-custom.webp` |
+| aquapark.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/aquapark.webp` |
+| football-field.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/football-field.webp` |
+| ice-palace.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/ice-palace.webp` |
+| sports-cluster-aerial.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/sports-cluster-aerial.webp` |
+| panoramic-glazing.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/panoramic-glazing.webp` |
+| finished-interiors-pool.webp | `https://daniilterekh-prog.github.io/sady-kimmerii-assets/sady-kimmerii/finished-interiors-pool.webp` |
